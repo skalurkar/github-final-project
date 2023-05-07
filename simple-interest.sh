@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # Sanket Alurkar
+   # skalurkar
 
    # Input:
    # p, principal amount
